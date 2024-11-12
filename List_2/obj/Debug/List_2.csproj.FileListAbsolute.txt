@@ -1,0 +1,6 @@
+C:\Users\Konstantinopol\RiderProjects\List_2\List_2\bin\Debug\List_2.exe
+C:\Users\Konstantinopol\RiderProjects\List_2\List_2\bin\Debug\List_2.pdb
+C:\Users\Konstantinopol\RiderProjects\List_2\List_2\obj\Debug\List_2.csproj.AssemblyReference.cache
+C:\Users\Konstantinopol\RiderProjects\List_2\List_2\obj\Debug\List_2.csproj.CoreCompileInputs.cache
+C:\Users\Konstantinopol\RiderProjects\List_2\List_2\obj\Debug\List_2.exe
+C:\Users\Konstantinopol\RiderProjects\List_2\List_2\obj\Debug\List_2.pdb
